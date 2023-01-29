@@ -4,6 +4,6 @@
     <title>More Page</title>
   </head>
   <body>
-    <p>This is a simple webpage created using HTML.</p>
+    <p>Ok HTML.</p>
   </body>
 </html>
